@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Node / Next
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+# Local env + data (never commit secrets or databases)
+.env
+.env.*
+!.env.example
+backend/data/
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
