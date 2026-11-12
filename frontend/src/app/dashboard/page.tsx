@@ -1,2 +1,5 @@
-import Workspace from '@/components/Workspace';
-export default function Page() { return <Workspace />; }
+import PersonalSafetyDashboard from "@/components/PersonalSafetyDashboard";
+
+export default function DashboardPage() {
+  return <PersonalSafetyDashboard />;
+}
