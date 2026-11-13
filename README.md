@@ -1,4 +1,16 @@
-# 🛡️ SecondSense
+## 🧩 Download Chrome Extension
+
+[Download SecondSense Extension](https://github.com/AMSecretAgent/SecondSense/releases/latest)
+
+### Installation
+1. Download `SecondSense-Extension.zip`.
+2. Extract the ZIP.
+3. Open `chrome://extensions`.
+4. Enable Developer mode.
+5. Click Load unpacked.
+6. Select the extracted folder containing `manifest.json`.
+7. Pin SecondSense and test it on the supported demo website.
+8. # 🛡️ SecondSense
 ### Your Second Thought Before You Pay
 
 **An AI-powered payment safety companion designed to help people recognize financial scams before they make a payment.**
