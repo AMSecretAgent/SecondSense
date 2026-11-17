@@ -2,6 +2,7 @@
 
 [Download SecondSense Extension](https://github.com/AMSecretAgent/SecondSense/releases/latest)
 
+[demo video link]-(https://www.youtube.com/watch?v=1RLqThTp7mk&t=64s).
 ### Installation
 1. Download `SecondSense-Extension.zip`.
 2. Extract the ZIP.
